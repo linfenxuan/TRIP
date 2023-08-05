@@ -30,4 +30,4 @@ python test_auc.py -d WN18RR_v4_ind -e trip_wn_v4
 python test_ranking.py -d WN18RR_v4_ind -e trip_wn_v4
 
 ### Acknowlegement
-We refer to the code of GraIL. Thanks for their contributions.
+We refer to the code of GraIL and SNRI. Thanks for their contributions.
